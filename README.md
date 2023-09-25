@@ -6,3 +6,8 @@ development of an electric bicycle attachment, spanning both hardware and softwa
 aspects. I am passionate about enhancing coding skills and gaining in-depth
 knowledge in hardware engineering. I am aspiring to transition into the artificial
 intelligence industry to leverage my skill set in solving complex, real-world challenges.
+Hey my name is Frank
+
+## Subheader
+Created bio for README
+New update
